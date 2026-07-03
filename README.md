@@ -1,4 +1,4 @@
-# SQL Mandatory Assignment
+# SQL Query Optimization
 
 Project Overview
 
